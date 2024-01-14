@@ -1,0 +1,9 @@
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\obj\Debug\WindowsActivationService.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\obj\Debug\WindowsActivationService.Properties.Resources.resources
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\obj\Debug\WindowsActivationService.csproj.GenerateResource.cache
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\obj\Debug\WindowsActivationService.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\bin\Debug\WindowsActivationService.exe.config
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\bin\Debug\WindowsActivationService.exe
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\bin\Debug\WindowsActivationService.pdb
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\obj\Debug\WindowsActivationService.exe
+C:\Users\noahl\source\repos\WindowsActivationService\WindowsActivationService\obj\Debug\WindowsActivationService.pdb
